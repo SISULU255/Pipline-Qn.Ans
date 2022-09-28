@@ -10,5 +10,5 @@ KIITEC’s specialized training programs include: Electronics & Telecommunicatio
 
 Future training programs in development:  Biomedical , Avionics"""
 
-qa_model(question = question, context = context)
+st.write(qa_model(question = question, context = context))
 ## {'answer': 'İstanbul', 'end': 39, 'score': 0.953, 'start': 31}
