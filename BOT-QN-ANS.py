@@ -18,8 +18,9 @@ KIITEC’s specialized training Diploma programs include: Electronics & Telecomm
 For certificate course include: IT & Security Certificate, DOMESTIC ELECTRICAL & SOLAR PV SYSTEMS INSTALLATION COURSE,ELECTRONICS AND SOLAR PV TECHNOLOGY,SOLAR PV SYSTEMS FOR DESIGNERS AND INSTALLERS,COMPUTER APPLICATIONS,Internet Technology,HUMAN MACHINE INTERFACE(HMI) AND SUPERVISORY CONTROL AND DATA ACQUISITION (SCADA),PROGRAMMABLE LOGIC CONTROLLERS (PLC).
 To reach kiitec adminstration contact info,P.O.Box 3172 Arusha, Tanzania. Phone: +255 27 250 4384 , Mobile: +255 757 845 118 ,Email: info@kiitec.ac.tz 
 My name is SISULU and my creator is WALTER RICHARD.
-Fee structure and Mode of Payment for Diploma Programmes,for first semister is 	695,000Tsh and for second semister is 625,000Tsh, Fee in the second semester can be paid in two installments before the end of the semester,The fees should be paid through the BANK of  ABSA and the Account number is  002-4001687 the Account Name is  KIITEC Ltd.
 """
+#Fee structure and Mode of Payment for Diploma Programmes,for first semister is 	695,000Tsh and for second semister is 625,000Tsh, Fee in the second semester can be paid in two installments before the end of the semester,The fees should be paid through the BANK of  ABSA and the Account number is  002-4001687 the Account Name is  KIITEC Ltd.
+
 ,
   'question':st.text_input('Question', 'what is KIITEC')
 
