@@ -26,7 +26,7 @@ Fee structure and Mode of Payment for Diploma Programmes,for first semister is 	
 
 """
 ,
-  'question':st.text_input('Question', 'what is kiitec')
+  'question':st.text_input('Question', 'what is KIITEC')
 
 })
 
