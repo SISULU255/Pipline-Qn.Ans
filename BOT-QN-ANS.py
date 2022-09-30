@@ -30,5 +30,5 @@ Fee structure and Mode of Payment for Diploma Programmes,for first semister is 	
 })
 
 st.write(predictions)
-if question="":
+if question=="":
   st.write("Write the question in short sentence so that i could help !")
