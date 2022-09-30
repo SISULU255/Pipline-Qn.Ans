@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 image = Image.open('kiitec logo.png')
-#st.image(image, caption='Enter any caption here')
+st.image(image,  width=None)
 from transformers import pipeline
 st.title("KIITEC VIRTUAL ASSISTANT")
 qa_model = pipeline("question-answering")
