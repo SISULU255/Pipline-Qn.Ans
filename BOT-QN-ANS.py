@@ -2,7 +2,8 @@ import streamlit as st
 from PIL import Image
 image = Image.open('kiitec logo.png')
 from transformers import pipeline
-st.image(image,  width=50),st.title("KIITEC VIRTUAL ASSISTANT")
+st.image(image,  width=50)
+st.title("KIITEC VIRTUAL ASSISTANT")
 qa_model = pipeline("question-answering")
 question = st.text_input('Question', 'where is kiitec found')
 context = """KIITEC is a technical institution registered by NACTE (REG/EOS/027) based in Moshono, Arusha next to Masai Camp.
