@@ -27,8 +27,10 @@ Fee structure and Mode of Payment for Diploma Programmes,for first semister is 	
 """
 ,
   'question':st.text_input('Question', 'what is kiitec')
+  if question =="":
+    st.write("Write the question in short sentence so that i could help !")
+  
 })
 
 st.write(predictions)
-if question=="":
-  st.write("Write the question in short sentence so that i could help !")
+
