@@ -1,4 +1,3 @@
 transformers
 streamlit
 tensorflow
-tokenizers==0.10.3
