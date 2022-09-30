@@ -5,8 +5,8 @@ st.image(image,  width=100)
 st.title("KIITEC VIRTUAL ASSISTANT")
 st.write("Sorry! am still learning but ask any Question about kiitec i may help you now")
 from transformers import pipeline
-import torch
-from transformers import AutoModel, AutoTokenizer 
+#import torch
+#from transformers import AutoModel, AutoTokenizer 
 qa_pipeline = pipeline(
   "question-answering",
   model="csarron/bert-base-uncased-squad-v1",
