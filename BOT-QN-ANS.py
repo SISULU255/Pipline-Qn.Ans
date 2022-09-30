@@ -5,7 +5,7 @@ from transformers import pipeline
 st.image(image,  width=100)
 st.title("KIITEC VIRTUAL ASSISTANT")
 qa_model = pipeline("question-answering")
-question = st.text_input('Question', '')
+question = st.text_input('Question', 'what is kiitec')
 context = """KIITEC is a technical institution registered by NACTE (REG/EOS/027) based in Moshono, Arusha next to Masai Camp.
 The institute was founded in 2004 by French engineers and has thence contrived to produce the most competent technicians in the country. 
 The institute is financed and supported by two NGO's The Foundation for Technical Education (FTE-Swiss) and Action Development Education International (ADEI-French). 
