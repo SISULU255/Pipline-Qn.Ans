@@ -26,10 +26,11 @@ ADMISSION REQUIREMENTS of ELECTRONICS AND TELECOMMUNICATION ENGINEERING, Possess
 ADMISSION REQUIREMENTS of ELECTRICAL AND INDUSTRIAL AUTOMATION ENGINEERING,Possession of a Certificate of Secondary Education Examinations (CSEE) with a minimum of FOUR passes of which TWO must be among the following subjects: Mathematics, Physics / Engineering science, Biology and Chemistry; excluding religious subjects or Possession of a National Vocational Award (NVA) Level III in Electrical, Electronics, Telecommunication, Mechanical and related field offered by VETA and a Certificate of Secondary Education Examination (CSEE) with at least two passes.\n
 ADMISSION REQUIREMENTS of ELECTRICAL AND COMPUTER ENGINEERING PROGRAMME,Possession of a Certificate of Secondary Education Examinations (CSEE) with a minimum of FOUR passes of which TWO must be among the following subjects: Mathematics, Physics / Engineering science, Biology and Chemistry; excluding religious subjects or Possession of a National Vocational Award (NVA) Level III in Electrical, Electronics, Telecommunication, Mechanical and related field offered by VETA and a Certificate of Secondary Education Examination (CSEE) with at least two passes.\n
 ADMISSION REQUIREMENTS of ELECTRICAL AND RENEWABLE ENERGY ENGINEERING,Possession of a Certificate of Secondary Education Examinations (CSEE) with a minimum of FOUR passes of which TWO must be among the following subjects: Mathematics, Physics / Engineering science, Biology and Chemistry; excluding religious subjects or Possession of a National Vocational Award (NVA) Level III in Electrical, Electronics, Telecommunication, Mechanical and related field offered by VETA and a Certificate of Secondary Education Examination (CSEE) with at least two passes.\n
-KIITEC STUDENTS where uniforms , uniforms that are worn are light blue shirts and dark blue sweeters ,dark blue skirt and dark blue trouser.
-
-
-
+KIITEC STUDENTS where uniforms , uniforms that are worn are light blue shirts and dark blue sweeters ,dark blue skirt and dark blue trouser.\n
+Kiitec has Vision of become a leading provider of quality technical education and training to empower the youth of Tanzania and Eastern Africa region.\n
+Kiitec has Mission of  provide quality hands-on technical training for students in ICTs, Electrical, Renewable Energies, Industrial Automation and the related disciplines, as well as to conduct quality research, and consultancy in these fields.\n
+Also Kiitec has Mission of promoting the development and usage of modern technology that meets national, regional, and international needs and standards through skills and practical oriented training.\n
+Kiitec has values: Hard-work and excellence ,Honesty ,Respect ,Responsibility ,Lifelong learning ,Innovation and creativity\n
 
 
 
