@@ -31,7 +31,10 @@ KIITEC is a technical institution registered by NACTE (REG/EOS/027) based in Mos
 \nKiitec has Mission of  provide quality hands-on technical training for students in ICTs, Electrical, Renewable Energies, Industrial Automation and the related disciplines, as well as to conduct quality research, and consultancy in these fields.\n
 \nAlso Kiitec has Mission of promoting the development and usage of modern technology that meets national, regional, and international needs and standards through skills and practical oriented training.\n
 \nKiitec has values: Hard-work and excellence ,Honesty ,Respect ,Responsibility ,Lifelong learning ,Innovation and creativity\n
+\nFor contact info of kiitec Phone: +255 27 250 4384, Mobile: +255 757 845 118 , Email: info@kiitec.ac.tz P.O.Box 3172 Arusha, Tanzania.
 
+
+ 
 
 
 
