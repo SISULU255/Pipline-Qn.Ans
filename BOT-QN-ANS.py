@@ -13,11 +13,27 @@ qa_pipeline = pipeline(
 predictions = qa_pipeline({
   'context': """
 KIITEC is a technical institution registered by NACTE (REG/EOS/027) based in Moshono, Arusha next to Masai Camp.\n
-\nFee structure and Mode of Payment for Diploma Programmes,for first semister is 	695,000Tsh and for second semister is 625,000Tsh, Fee in the second semester can be paid in two installments before the end of the semester,The fees should be paid through the BANK of  ABSA and the Account number is  002-4001687 the Account Name is  KIITEC Ltd.\n
-\n my name is Sisulu
-"""
-#Fee structure and Mode of Payment for Diploma Programmes,for first semister is 	695,000Tsh and for second semister is 625,000Tsh, Fee in the second semester can be paid in two installments before the end of the semester,The fees should be paid through the BANK of  ABSA and the Account number is  002-4001687 the Account Name is  KIITEC Ltd.
+\nFee structure and Mode of Payment for Diploma Programmes,for first semister is 695,000Tsh can be paid in two installments before the end of the semester, and for second semister is 625,000Tsh, Fee in the second semester can be paid in two installments before the end of the semester\n
+The fees should be paid through the BANK of  ABSA and the Account number is  002-4001687 the Account Name is  KIITEC Ltd.\n
+my name is Sisulu\n
+WALTER RICHARD made me\n
+The institute was founded in 2004 by French engineers and has thence contrived to produce the most competent technicians in the country. The institute is financed and supported by two NGO's The Foundation for Technical Education (FTE-Swiss) and Action Development Education International (ADEI-French). In 2004, ADEI's partner FTE built the Kilimanjaro International Institute of Telecommunications, Electronics and Computers (KIITEC) introducing state of the art teaching facilities to train technicians in Arusha, Tanzania.\n
+Following construction, ADEI joined FTE in its ambition to make change through technical education and has played a pivotal role in the on the ground education programming and training at KIITEC ever since. Today, KIITEC acts as the international training center where educators travel to from different corners of Africa to upgrade their skills. KIITEC is the home base for ADEI's international volunteers.\n
+Resting on a 15-acre campus, KIITEC offers the most advanced targeted training technologies in the region. The innovative education model developed at KIITEC is based on a hands-on and student-centered approach to learning with full access to modern learning equipment simulating real world practical experiences. The training center is registered and accredited by the National Council for Technical Education (NACTE) and awards successful graduates with a 3-year National Technical Award Level Six (NTA-6) Diploma.\n
+KIITEC’s specialized training programs include: Electronics & Telecommunication Engineering , Industrial Automation , Computer Engineering and Networking , Renewable Energies, Environmental Impact .\n
+Future training programs in development: Biomedical ,  Avionics.\n
 
+
+
+
+
+
+
+
+
+
+
+"""
 ,
   'question':st.text_input('Question', 'what is KIITEC')
 
