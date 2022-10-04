@@ -40,7 +40,7 @@ Future training programs or courses in development: Biomedical ,  Avionics.
 
 ADMISSION REQUIREMENTS of ELECTRONICS AND TELECOMMUNICATION ENGINEERING, Possession of a Certificate of Secondary Education Examinations (CSEE) with a minimum of FOUR passes of which TWO must be among the following subjects: Mathematics, Physics / Engineering science, Biology and Chemistry; excluding religious subjects or Possession of a National Vocational Award (NVA) Level III in Electrical, Electronics, Telecommunication, Mechanical and related field offered by VETA and a Certificate of Secondary Education Examination (CSEE) with at least two passes.
 
-\nADMISSION REQUIREMENTS of ELECTRICAL AND INDUSTRIAL AUTOMATION ENGINEERING,Possession of a Certificate of Secondary Education Examinations (CSEE) with a minimum of FOUR passes of which TWO must be among the following subjects: Mathematics, Physics / Engineering science, Biology and Chemistry; excluding religious subjects or Possession of a National Vocational Award (NVA) Level III in Electrical, Electronics, Telecommunication, Mechanical and related field offered by VETA and a Certificate of Secondary Education Examination (CSEE) with at least two passes.
+ADMISSION REQUIREMENTS of ELECTRICAL AND INDUSTRIAL AUTOMATION ENGINEERING,Possession of a Certificate of Secondary Education Examinations (CSEE) with a minimum of FOUR passes of which TWO must be among the following subjects: Mathematics, Physics / Engineering science, Biology and Chemistry; excluding religious subjects or Possession of a National Vocational Award (NVA) Level III in Electrical, Electronics, Telecommunication, Mechanical and related field offered by VETA and a Certificate of Secondary Education Examination (CSEE) with at least two passes.
 
 ADMISSION REQUIREMENTS of ELECTRICAL AND COMPUTER ENGINEERING PROGRAMME,Possession of a Certificate of Secondary Education Examinations (CSEE) with a minimum of FOUR passes of which TWO must be among the following subjects: Mathematics, Physics / Engineering science, Biology and Chemistry; excluding religious subjects or Possession of a National Vocational Award (NVA) Level III in Electrical, Electronics, Telecommunication, Mechanical and related field offered by VETA and a Certificate of Secondary Education Examination (CSEE) with at least two passes.
 
@@ -57,12 +57,6 @@ Also Kiitec has Mission of promoting the development and usage of modern technol
 Kiitec has values: Hard-work and excellence ,Honesty ,Respect ,Responsibility ,Lifelong learning ,Innovation and creativity.
 
 For contact info of kiitec Phone: +255 27 250 4384, Mobile: +255 757 845 118 , Email: info@kiitec.ac.tz P.O.Box 3172 Arusha, Tanzania.
-
-
- 
-
-
-
 """
 ,
   'question':st.text_input('Question', 'what is KIITEC')
