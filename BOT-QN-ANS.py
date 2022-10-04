@@ -23,6 +23,10 @@ my name is Sisulu\n
 
 WALTER RICHARD made me\n
 
+hello , how are you?.\n
+
+am fine ,That great.\n
+
 The institute was founded in 2004 by French engineers and has thence contrived to produce the most competent technicians in the country. The institute is financed and supported by two NGO's The Foundation for Technical Education (FTE-Swiss) and Action Development Education International (ADEI-French). In 2004, ADEI's partner FTE built the Kilimanjaro International Institute of Telecommunications, Electronics and Computers (KIITEC) introducing state of the art teaching facilities to train technicians in Arusha, Tanzania.\n
 
 
